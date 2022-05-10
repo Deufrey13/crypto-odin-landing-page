@@ -79,9 +79,7 @@ a {
 .block {
 
     width: 50%;
-    /* display: flex; */
-   align-items: center;
-    /* background-color: rgb(12, 37, 151); */
+    align-items: center;
     color: #ffffff;
     margin: 25px;
 }
@@ -125,18 +123,11 @@ button.sign-up {
     width: 365px;
     border-width: 4px;
     border-style: solid;
-    border-image: linear-gradient(to right, darkblue, darkorchid) 1;
+    border-image: linear-gradient(to right, darkblue, rgb(70, 224, 23)) 1;
      
 }
 
-/* third section */
 
-/* .section-third {
-    width: auto;
-     align-items: center;
-    min-height: 250px;
-    background-color: #ffffff;
-} */
 
 .section-third {
 
@@ -154,7 +145,7 @@ button.sign-up {
     background-color: #ffffff;
     display: flex;
     margin: 50px;
-    /* flex-wrap: wrap; */
+  
 }
 
 
